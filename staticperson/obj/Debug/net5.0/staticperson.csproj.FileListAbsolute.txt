@@ -1,0 +1,16 @@
+C:\Users\baylarss\source\repos\staticperson\staticperson\bin\Debug\net5.0\staticperson.exe
+C:\Users\baylarss\source\repos\staticperson\staticperson\bin\Debug\net5.0\staticperson.deps.json
+C:\Users\baylarss\source\repos\staticperson\staticperson\bin\Debug\net5.0\staticperson.runtimeconfig.json
+C:\Users\baylarss\source\repos\staticperson\staticperson\bin\Debug\net5.0\staticperson.runtimeconfig.dev.json
+C:\Users\baylarss\source\repos\staticperson\staticperson\bin\Debug\net5.0\staticperson.dll
+C:\Users\baylarss\source\repos\staticperson\staticperson\bin\Debug\net5.0\ref\staticperson.dll
+C:\Users\baylarss\source\repos\staticperson\staticperson\bin\Debug\net5.0\staticperson.pdb
+C:\Users\baylarss\source\repos\staticperson\staticperson\obj\Debug\net5.0\staticperson.csproj.AssemblyReference.cache
+C:\Users\baylarss\source\repos\staticperson\staticperson\obj\Debug\net5.0\staticperson.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\baylarss\source\repos\staticperson\staticperson\obj\Debug\net5.0\staticperson.AssemblyInfoInputs.cache
+C:\Users\baylarss\source\repos\staticperson\staticperson\obj\Debug\net5.0\staticperson.AssemblyInfo.cs
+C:\Users\baylarss\source\repos\staticperson\staticperson\obj\Debug\net5.0\staticperson.csproj.CoreCompileInputs.cache
+C:\Users\baylarss\source\repos\staticperson\staticperson\obj\Debug\net5.0\staticperson.dll
+C:\Users\baylarss\source\repos\staticperson\staticperson\obj\Debug\net5.0\ref\staticperson.dll
+C:\Users\baylarss\source\repos\staticperson\staticperson\obj\Debug\net5.0\staticperson.pdb
+C:\Users\baylarss\source\repos\staticperson\staticperson\obj\Debug\net5.0\staticperson.genruntimeconfig.cache
